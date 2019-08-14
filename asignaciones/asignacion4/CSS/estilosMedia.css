@@ -1,0 +1,17 @@
+@media screen and (max-width:900px) and (min-width:580px){       /* cuando achicamos la pantalla hasta un minimo de 700 px se realizara todos esos eventos */
+    header{
+        background: #000000;
+        width: 100%;
+        height: 120px;
+    }
+    .menu li a{
+        padding: 10px 20px;
+    }
+    .logo{
+        height: 50px
+    }
+    header h1{
+        font-size: 20px;
+    }    
+
+}
