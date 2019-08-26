@@ -36,18 +36,6 @@
           "Mezquitas, palacios",
           "Museos"
         ]
-      },
-      {
-        "Nombre" : "Marrakech",
-          "Extension" : "Molecule Man",
-        "Poblacion" : 29,
-        "Clima" : "Dan Jukes",
-        "Lugares" : [
-          "Plazas y calles",
-          "Mezquitas, palacios",
-          "Museos"
-        ]
       }
-      
   ]
 }
