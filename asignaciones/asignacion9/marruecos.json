@@ -1,7 +1,6 @@
 {
   "titulo" : "Lugares Turísticos de Marruecos",
   "subtitulo" : "Principales Ciudades",
-  "secretBase" : "Super tower",
   "active" : true,
   "ciudades" : [
     {
