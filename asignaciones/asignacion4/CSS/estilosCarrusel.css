@@ -1,10 +1,10 @@
 .contenido{     /* un div con el nombre de clase contenido, dentro del aside*/
     width: 70%;
-    height: 10%;
+    /*height: 10%;*/
     margin: auto;
     perspective: 1000px;
     position: relative;
-    margin-top: 50px;
+    margin-top: 55px;
 }
 .carrusel{
     width: 100%;
