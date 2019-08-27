@@ -1,14 +1,13 @@
 {
   "titulo" : "Lugares Turísticos de Marruecos",
   "subtitulo" : "Principales Ciudades",
-  "active" : true,
   "ciudades" : [
     {
-      "Nombre" : "Marrakech",
-        "Extension" : "230 km2",
-      "Poblacion" : "1 545 541 habitantes",
-      "Idioma" : "Semi arido",
-      "Lugares" : [
+      "nombre" : "Marrakech",
+      "extension" : "230 km2",
+      "poblacion" : "1 545 541 habitantes",
+      "idioma" : "Semi arido",
+      "lugares" : [
         "Plazas y calles",
         "Mezquitas, palacios",
         "Museos"
@@ -16,22 +15,22 @@
     },
 
     {
-        "Nombre" : "Uarzazate",
-          "Extension" : "305 km2",
-        "Poblacion" : "63420 habitantes",
-        "Idioma" : "Arabe, tamazight, francés",
-        "Lugares" : [
+        "nombre" : "Uarzazate",
+        "extension" : "305 km2",
+        "poblacion" : "63420 habitantes",
+        "idioma" : "Arabe, tamazight, francés",
+        "lugares" : [
           "Plazas y calles",
           "Mezquitas, palacios",
           "Museos"
         ]
       },
       {
-        "Nombre" : "Marrakech",
-          "Extension" : "Molecule Man",
-        "Poblacion" : 29,
-        "Clima" : "Dan Jukes",
-        "Lugares" : [
+        "nombre" : "Marrakech",
+        "extension" : "Molecule Man",
+        "poblacion" : 29,
+        "idioma" : "Dan Jukes",
+        "lugares" : [
           "Plazas y calles",
           "Mezquitas, palacios",
           "Museos"
