@@ -6,7 +6,7 @@
       "nombre" : "Marrakech",
       "extension" : "230 km2",
       "poblacion" : "1 545 541 habitantes",
-      "idioma" : "Semi arido",
+      "idioma" : "Árabe, francés, español",
       "lugares" : [
         "Plazas y calles",
         "Mezquitas, palacios",
@@ -20,21 +20,34 @@
         "poblacion" : "63420 habitantes",
         "idioma" : "Arabe, tamazight, francés",
         "lugares" : [
-          "Plazas y calles",
-          "Mezquitas, palacios",
-          "Museos"
+          "OASIS DE FINT",
+          "El Festival de alfombras",
+          "Festival Nacional Ahwac"
         ]
       },
       {
-        "nombre" : "Marrakech",
-        "extension" : "Molecule Man",
-        "poblacion" : 29,
-        "idioma" : "Dan Jukes",
+        "nombre" : "AIT BEN HADDOU",
+        "extension" : "72.506 Km2",
+        "poblacion" : "3.113.000 habitantes",
+        "idioma" : "Arabe, tamazight, francés",
         "lugares" : [
-          "Plazas y calles",
-          "Mezquitas, palacios",
-          "Museos"
+          "La Fortaleza",
+          "Pueblos Bereberes",
+          "Pasadizos subterráneos."
+        ]
+      },
+
+      {
+        "nombre" : "Fez",
+        "extension" : "20.318 Km2",
+        "poblacion" : "946.000 habitantes",
+        "idioma" : "Arabe, francés y bereber",
+        "lugares" : [
+          "Zona antigua",
+          "El barrio judío",
+          "Zona peatonal"
         ]
       }
-  ]
+
+    ]
 }
